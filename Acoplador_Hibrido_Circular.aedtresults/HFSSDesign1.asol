@@ -1,40 +1,44 @@
 $begin '$base_index$'
   $begin 'properties'
     all_levels=000000000000
-    time(year=000000002026, month=000000000006, day=000000000018, hour=000000000023, min=000000000027, sec=000000000047)
+    time(year=000000002026, month=000000000006, day=000000000019, hour=000000000014, min=000000000022, sec=000000000037)
     version=000000000000
   $end 'properties'
   $begin '$base_index$'
-    $index$(pos=000000000822, lin=000000000023, lvl=000000000000)
+    $index$(pos=000000001393, lin=000000000027, lvl=000000000000)
   $end '$base_index$'
 $end '$base_index$'
 $begin 'SolutionBlock1'
 	ProductName=''
 	CircuitName='HFSSDesign1'
-	VersionID=45
+	VersionID=191
 	PostProcess=false
 	LossLess=true
-	NextUniqueID=52
+	NextUniqueID=198
 	MoveBackwards=false
+	$begin 'VariationIDs'
+		Map(V='H=\'0.50800000000000001mm\' Hcond=\'0.035000000000000003mm\' L0=\'1.28mm\' Lqw=\'71.119669999999999mm\' Rdentro=\'11.319047031564377mm\' Rfora=\'1001.8332999999999mm\' subX=\'10.5mm\' subY=\'10.5mm\' W0=\'1.2mm\' Wqw=\'1.8332999999999999mm\'', ID=170)
+		Map(V='H=\'0.50800000000000001mm\' Hcond=\'0.035000000000000003mm\' L0=\'1.28mm\' Lqw=\'71.119669999999999mm\' Rdentro=\'11.319047031564377mm\' Rfora=\'13.152347031564377mm\' subX=\'10.5mm\' subY=\'10.5mm\' W0=\'1.2mm\' Wqw=\'1.8332999999999999mm\'', ID=172)
+	$end 'VariationIDs'
 	$begin 'LinkedDataList'
 	$end 'LinkedDataList'
-	MeshAssemVersionID=42
+	MeshAssemVersionID=174
 	$begin 'NextAssemVersionID'
-		NextUniqueID=43
+		NextUniqueID=175
 		MoveBackwards=false
 	$end 'NextAssemVersionID'
 	$begin 'MI'
 	$end 'MI'
-	VersionID2=46
+	VersionID2=192
 $end 'SolutionBlock1'
 $begin 'BlockMapName'
 	FileHeader='SolutionBlock1'
 $end 'BlockMapName'
 $begin '$index$'
 	$begin '$index$'
-		BlockMapName(pos=751, lin=20, lvl=0)
+		BlockMapName(pos=1322, lin=24, lvl=0)
 		SolutionBlock1(pos=370, lin=1, lvl=0)
 		$base_index$(pos=0, lin=1, lvl=0)
-		$index$(pos=822, lin=23, lvl=0)
+		$index$(pos=1393, lin=27, lvl=0)
 	$end '$index$'
 $end '$index$'
