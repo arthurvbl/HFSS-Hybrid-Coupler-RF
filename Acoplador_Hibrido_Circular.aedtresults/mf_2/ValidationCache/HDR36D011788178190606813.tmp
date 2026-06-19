@@ -1,0 +1,17 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='H=\'0.50800000000000001mm\' Hcond=\'0.035000000000000003mm\' L0=\'1.28mm\' Lqw=\'16.732500000000002mm\' Rdentro=\'2.6630600852851387mm\' Rfora=\'4.3080600852851392mm\' Rmin=\'3.631860085285139mm\' subX=\'11.176120170570277mm\' subY=\'11.176120170570277mm\' W0=\'0.96879999999999999mm\' Wqw=\'1.645mm\''
+		Status=true
+		FileName='VI4B6711788178190768238.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='H=\'0.50800000000000001mm\' Hcond=\'0.035000000000000003mm\' L0=\'1.28mm\' Lqw=\'70mm\' Rdentro=\'11.140846016432675mm\' Rfora=\'12.785846016432677mm\' Rmin=\'12.109646016432675mm\' subX=\'28.131692032865352mm\' subY=\'28.131692032865352mm\' W0=\'0.96879999999999999mm\' Wqw=\'1.645mm\''
+		Status=true
+		FileName='VI57B011788178190864556.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='H=\'0.50800000000000001mm\' Hcond=\'0.035000000000000003mm\' L0=\'1.28mm\' Lqw=\'71.119669999999999mm\' Rdentro=\'11.319047031564377mm\' Rfora=\'12.964047031564377mm\' Rmin=\'12.287847031564377mm\' subX=\'28.488094063128752mm\' subY=\'28.488094063128752mm\' W0=\'0.96879999999999999mm\' Wqw=\'1.645mm\''
+		Status=true
+		FileName='VI3DA311788178190660316.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'

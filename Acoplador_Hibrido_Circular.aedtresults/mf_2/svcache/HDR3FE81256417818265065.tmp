@@ -1,7 +1,71 @@
 SimValueCacheVersionID=1
 $begin 'SimValueInfos'
-	NextUniqueID=0
+	NextUniqueID=5
 	MoveBackwards=false
+	$begin 'SimValue'
+		ID=0
+		$begin 'SimValueParams'
+			QuantityName='S(1,1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=1
+		$begin 'SimValueParams'
+			QuantityName='S(2,1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=2
+		$begin 'SimValueParams'
+			QuantityName='S(3,1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=3
+		$begin 'SimValueParams'
+			QuantityName='S(4,1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=4
+		$begin 'SimValueParams'
+			QuantityName='Volume(Substrato)'
+			ValueState(787, 14, 1, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
 $end 'SimValueInfos'
 $begin 'SimValueCache'
+	$begin 'DesignMap'
+		DesignID=2
+		$begin 'SolutionMap'
+			$begin 'ContextMap'
+				SolutionID=279
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=280
+				$begin 'VersionMap'
+					$begin 'ReportTypeSolnDef'
+						ReportType=0
+						SimValueContext(0, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+					$end 'ReportTypeSolnDef'
+					$begin 'MajorVVMap'
+						VersionID=459
+						$begin 'MinorVVMap'
+							MajorVariation='H=\'0.50800000000000001mm\' Hcond=\'0.035000000000000003mm\' L0=\'1.28mm\' Lqw=\'70mm\' Rdentro=\'11.140846016432675mm\' Rfora=\'12.785846016432677mm\' Rmin=\'12.109646016432675mm\' subX=\'28.131692032865352mm\' subY=\'28.131692032865352mm\' W0=\'0.96879999999999999mm\' Wqw=\'1.645mm\''
+							MinorCacheFile='min592411788178190875961.tmp'
+						$end 'MinorVVMap'
+					$end 'MajorVVMap'
+				$end 'VersionMap'
+			$end 'ContextMap'
+		$end 'SolutionMap'
+	$end 'DesignMap'
 $end 'SimValueCache'
