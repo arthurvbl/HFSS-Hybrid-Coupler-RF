@@ -1,0 +1,13 @@
+$begin 'CacheDataVersion'
+	DataVersion=-1
+$end 'CacheDataVersion'
+$begin 'VariableValues'
+	H='0.508mm'
+	subX='10.5mm'
+	subY='10.5mm'
+	Hcond='0.035mm'
+	Rfora='4mm'
+	Rdentro='Rfora-1mm'
+	W0='1.2mm'
+	L0='1.28mm'
+$end 'VariableValues'
